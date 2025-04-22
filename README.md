@@ -43,6 +43,9 @@ All data is encoded with **Base64**, and the salt/IV are embedded directly in th
 - Cybersecurity Enthusiast 
 - 📫 LinkedIn · 💼 Portfolio
 
+## ⚠️ Disclaimer
+- This project is for educational and demonstration purposes only. Do not use it for real-world secure communication without implementing proper key management and cryptographic practices.
+
 
 ## 📜 License
 - MIT License – do whatever you want, just don't make it evil.
