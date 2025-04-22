@@ -14,11 +14,6 @@ A sleek, minimalistic **AES Encryption/Decryption** tool built with Python and a
 
 ---
 
-## 📸 Preview
-
-> *(Insert screenshot here)*
-
----
 
 ## ⚙️ How It Works
 1. Type your message.
@@ -45,12 +40,12 @@ All data is encoded with **Base64**, and the salt/IV are embedded directly in th
 
 ## 🧑‍💻 Author
 **Klatu**
-Cybersecurity Enthusiast 
-📫 LinkedIn · 💼 Portfolio
+- Cybersecurity Enthusiast 
+- 📫 LinkedIn · 💼 Portfolio
 
 
 ## 📜 License
-MIT License – do whatever you want, just don't make it evil.
+- MIT License – do whatever you want, just don't make it evil.
 
 
 
